@@ -15,3 +15,4 @@ Here is how to proceed:
 3) Add the products thus obtained.
 
 The resulting number is the result of the base ten conversion. 
+xcode-select --install

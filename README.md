@@ -3,7 +3,7 @@
 
 ![Image](https://github.com/DannyOnkies/Conversion-BinToDec/blob/main/pic/Algorithm%20to%20convert%20Binary%20to%20Decimal.gif?raw=true)
 
-To convert a binary number to a decimal just multiply the digits of the number to be converted by suitable '''sh powers of 2''' and add the products together
+To convert a binary number to a decimal just multiply the digits of the number to be converted by suitable ``` powers of 2``` and add the products together
 
 Here is how to proceed:
 
